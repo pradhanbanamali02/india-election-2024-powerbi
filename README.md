@@ -84,7 +84,7 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 ---
 
 ## Repository Files
-- **Power BI file:** [india election analysis - 2024.pbix](india-election-analysis-2024.pbix)  
+- **Power BI file:** [india election analysis - 2024.pbix](india election analysis - 2024.pbix)  
 - **CSV datasets:** Stored in `Data/` folder (5 files)  
 - **Dashboard screenshots:** Stored in `Images/` folder  
 
