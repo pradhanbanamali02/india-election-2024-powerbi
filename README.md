@@ -76,7 +76,7 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 ![State Landscape](Images/State landscape.png.png)
 
 ### Regional Insights
-![Regional Insights](Images/regional.png)
+![Regional Insights](Images/Regional.png.png)
 
 ### Constituency Analysis
 ![Constituency Analysis](Images/constituency.png.png)
