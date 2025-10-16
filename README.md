@@ -118,11 +118,8 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 
 ---
 
-## License
-MIT License  
-
----
-
-## Connect With Me
-LinkedIn: [www.linkedin.com/in/banamali-pradhan]  
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
 
