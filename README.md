@@ -59,7 +59,7 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 
 ---
 
-## 📊 Key Numbers
+## Key Numbers
 - NDA: **292 seats (54%)**  
 - I.N.D.I.A.: **234 seats (43%)**  
 - Others: **17 seats (3%)**  
@@ -90,7 +90,7 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 
 ---
 
-## 💡 Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop** – Dashboard creation  
 - **Power Query Editor** – Data cleaning and transformation  
 - **DAX** – KPI calculations and metrics  
@@ -98,12 +98,12 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 
 ---
 
-## 🎬 Video Walkthrough
+## Video Walkthrough
 🎥 Watch the 2-minute demo here: [https://1drv.ms/v/c/431b944d5e12f8cb/Efp8kXmFHZBBphs4d3l_TSsBmDB3tvxKAvylfOCicsbbWw?e=SfzXaq]  
 
 ---
 
-## 🔍 Insights & Learnings
+## Insights & Learnings
 - NDA held a majority of seats but regional trends vary significantly  
 - State-wise and constituency-level drill-through reveals granular insights  
 - Demonstrates **end-to-end Power BI workflow**:  
@@ -111,14 +111,14 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 
 ---
 
-## 🧩 Future Improvements
+## Future Improvements
 - Add voter turnout and demographic analysis  
 - Integrate official Election Commission datasets for validation  
 - Add historical year-over-year comparisons  
 
 ---
 
-## 📜 License
+## License
 MIT License  
 
 ---
