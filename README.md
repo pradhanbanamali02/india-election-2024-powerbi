@@ -70,7 +70,7 @@ The project highlights key metrics, state-wise trends, constituency-level detail
 
 ## Dashboard Snapshots
 ### Overview
-![Images/overview.png.png](Images/overview.png)
+![Images/overview.png.png](Images/overview.png.png)
 
 ### State Landscape
 ![State Landscape](Images/state-landscape.png)
