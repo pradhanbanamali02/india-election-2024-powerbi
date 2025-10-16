@@ -123,6 +123,6 @@ MIT License
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 LinkedIn: [www.linkedin.com/in/banamali-pradhan]  
 
